@@ -34,7 +34,7 @@ Then I used the 'transposed' option to paste the values with the years listed as
 
 To combine this new dataset with the larger SNAP sheet, I used the VLOOKUP equation.
 
-<img width="279" alt="Screen Shot 2022-08-04 at 9 13 23 AM" src="https://user-images.githubusercontent.com/109619721/183216762-ad7710d1-63ed-499d-8cdc-4bad26cd4270.png">
+<img width="376" alt="Screen Shot 2022-08-04 at 9 11 15 AM" src="https://user-images.githubusercontent.com/109619721/183356539-beaa0041-a7ba-45bd-8c7b-99a880f2cea1.png">
 
 The data by itself was difficult to interpret, so the best way to compare the benefits to the purchasing price was a visual representation. I inputted the data of average benefit per person to the CPI on a line graph.
 
