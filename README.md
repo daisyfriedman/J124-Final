@@ -1,5 +1,41 @@
 # J124-Final
 
+## Story Pitch
+
+### Story Summary
+
+While SNAP benefits remain relatively stagnant, costs for the program are growing. 
+
+According to my analysis in Question 5, total benefits peaked in 2013, whereas additional costs have been growing steadily every year. This article will explore the reasoning behind this. The data source credits these other costs to "the Federal share of State administrative expenses, Nutrition Education, and Employment and Training programs." Why have these costs been growing disproportionately to the SNAP benefits given? The article will analyze changes from 2013 to 2019 in wages, training, education, and other expenses to answer the question.
+
+### Source Contacts
+
+* __Caitlin Daniel: UC Berkeley Lecturer__
+  * Professor Daniel is a sociology lecturer who specializes in inequality and food. She would offer a bigger-picture cultural perspective by being a sociologist in the field and would make the article appeal more to the social factors that cause these changes.
+  * Phone Number: (612)360-9783
+  * Email: cdaniel@berkeley.edu
+ 
+* __Jessica Shahin: Associate Administrator of SNAP__
+  * Being a high-up executive in the Food and Nutrition Service, especially in SNAP specifically, Shahin's interview will allow for the most accurate possible take on the article's question because it regards a principle factor of her job.
+  * Phone Number: (703)305-2022
+
+
+### Data Sources
+
+In addition to the two extra sources I used for my analysis (USA GDP and CPI) the following would be used for the article:
+
+* __USA Poverty Data__
+  * This source shows the yearly percentage of the United States' population in poverty; specifically, poverty in this dataset is labeled as those living on less than $1.90 per day.
+  * This source is useful to the article because poverty likely correlates to the recipients of SNAP benefits. Therefore, a sharp rise in poverty from 2013 to 2019 may explain the need for higher costs.
+  * Link: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=US
+
+* __*Nutrition Reviews* Journal Article__
+  * "Effect of Supplemental Nutrition Assistance Program–Education (SNAP-Ed) on food security and dietary outcomes"
+  *  The research demonstrated in this article shows how, despite SNAP's significant increase in food security, increases to nutrition as a result of the program still remain low.
+  * This source is useful to the article because efforts to improve nutrition education may be the cause of increased cost.
+  * Link: https://academic.oup.com/nutritionreviews/article/77/12/903/5488130
+
+
 ## Questions
 
 ### 1. Are the total benefits proportional to the total cost over time?
