@@ -40,6 +40,8 @@ The data by itself was difficult to interpret, so the best way to compare the be
 
 [<img width="878" alt="Screen Shot 2022-08-04 at 10 18 47 AM" src="https://user-images.githubusercontent.com/109619721/183217526-66adb0ba-e592-4cc1-b34f-6b657f66186d.png">](https://datawrapper.dwcdn.net/WVTIA/1/)
 
+I concluded that the purchasing power of the SNAP benefits remained relatively constant given the line charts' similarity, with the value a bit lower in the beginning years than the latter years.
+
 ### 3. Were benefits affected by changes in the market (aka recessions)?
 
 The process with which I completed this question is very similar to that of the previous one -- question 2. First, I found a dataset of changes to the USA's GDP since the 1960s. I chose GDP changes rather than a more linear chart of the GDP over time because the prior source has more easily-identifiable recession periods.
@@ -60,7 +62,7 @@ From there, I felt the best way to comprehend any correlation between recession 
 
 [<img width="838" alt="Screen Shot 2022-08-05 at 1 40 34 PM" src="https://user-images.githubusercontent.com/109619721/183310264-e425d7b5-3925-4621-a2c1-1ec9c746b1c3.png">](https://datawrapper.dwcdn.net/WOm5a/1/)
 
-From analyzing this chart, I concluded that there was little to no effect of the GDP on SNAP benefits in general, except for the Great Recession (2007 t0 2009), during which there was a sharp increase of the average benefit per person.
+From analyzing this chart, I concluded that there was little to no effect of the GDP on SNAP benefits in general, except for the Great Recession (2007 to 2009), during which there was a sharp increase of the average benefit per person.
 
 ### 4. Which decade had the most SNAP participants (of the decades provided)?
 
