@@ -4,19 +4,19 @@
 
 ### 1. Are the total benefits proportional to the total cost over time?
 
-##### To test whether the benefits are proportional to the total cost, I wanted to create a ratio for easier comparison over time.
+To test whether the benefits are proportional to the total cost, I wanted to create a ratio for easier comparison over time.
 
 <img width="723" alt="Screen Shot 2022-08-04 at 9 16 44 AM" src="https://user-images.githubusercontent.com/109619721/183160903-268846d9-20b6-443c-b222-dc3da3e2cb4d.png">
 
-##### This was a simple equation (seen above). The resulting column did shows how much of the total money spent goes into benefits (see highlighted column in image below). 
+This was a simple equation (seen above). The resulting column did shows how much of the total money spent goes into benefits (see highlighted column in image below). 
 
 <img width="1139" alt="Screen Shot 2022-08-05 at 1 58 54 PM" src="https://user-images.githubusercontent.com/109619721/183166356-fdcaf2b6-f56c-4392-817c-fab462ebd3ac.png">
 
-##### Because the numbers remain relatively constant (within hundreths of a decimal), I concluded that the benefits remained relatively proportional to the total cost.
+Because the numbers remain relatively constant (within hundreths of a decimal), I concluded that the benefits remained relatively proportional to the total cost.
 
 ### 2. Are the average benefits per person proportional to inflation prices (does the purchasing power remain constant)?
 
-##### In order to compare the benefits to purchasing power, I had to download a dataset that shows these changes since the 1960s. I chose the Consumer Price Index because it best shows changes to prices relative to inflation.
+In order to compare the benefits to purchasing power, I had to download a dataset that shows these changes since the 1960s. I chose the Consumer Price Index because it best shows changes to prices relative to inflation.
 
 <img width="1373" alt="Screen Shot 2022-08-04 at 9 18 35 AM" src="https://user-images.githubusercontent.com/109619721/183213295-0e7e0d48-e670-4fce-8a68-493aac3745e1.png">
 
@@ -96,4 +96,15 @@ From there, I was able to analyze the data and conclude that the total participa
 
 <img width="306" alt="Screen Shot 2022-08-07 at 10 49 43 PM" src="https://user-images.githubusercontent.com/109619721/183352206-74b2eddc-f5d7-4b6c-835e-69b966538436.png">
 
-### 5. 
+### 5. Which year had the highest total benefits? Highest other costs?
+
+This is a relatively simple process. For this question, I simply sorted the total benefit column by descending value and scrolled over to the top year. Then I did the same for other costs.
+
+<img width="462" alt="Screen Shot 2022-08-07 at 11 30 56 PM" src="https://user-images.githubusercontent.com/109619721/183354520-43043b81-9817-4a50-ba53-97d36ca10d4f.png">
+
+I found that 2013 had the most total benefits but did not, in fact, have the highest cost for other variables. Instead, 2019 had the highest costs other than benefits.
+
+<img width="593" alt="Screen Shot 2022-08-07 at 11 35 35 PM" src="https://user-images.githubusercontent.com/109619721/183354569-8acb77e5-e14b-4dd3-9da7-d2971d2c69da.png">
+
+<img width="745" alt="Screen Shot 2022-08-07 at 11 35 17 PM" src="https://user-images.githubusercontent.com/109619721/183354584-14097d9a-7974-4729-93f2-bdfef63b45bd.png">
+
