@@ -36,6 +36,12 @@ In addition to the two extra sources I used for my analysis (USA GDP and CPI) th
   * Link: https://academic.oup.com/nutritionreviews/article/77/12/903/5488130
 
 
+## Data Visualization
+
+I include more data visualizations in my questions' analysis, so this line chart is intended to introduce readers to the scale and change of SNAP benefits.
+
+[<img width="622" alt="Screen Shot 2022-08-08 at 1 47 35 AM" src="https://user-images.githubusercontent.com/109619721/183378503-5440cd48-6bee-4518-b990-19052b671038.png">](https://datawrapper.dwcdn.net/gPNAq/1/)
+
 ## Questions
 
 ### 1. Are the total benefits proportional to the total cost over time?
